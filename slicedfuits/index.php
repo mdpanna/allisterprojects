@@ -70,7 +70,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="micon"><i class="fas fa-bars"></i></span>
                 </button>
-                <a class="navbar-brand navbar-brand_main m-auto " href="index.php"> <img src="img/logo.png" alt="none" class="img-fluid"></a>
+                <a class="navbar-brand navbar-brand_main m-auto " href="index.php"> <img src="img/logo.png" alt="Sliced Fruits Logo" class="img-fluid"></a>
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul class="navbar-nav">
 
@@ -82,7 +82,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         </li>
 
                         <li class="nav-item">
-                            <a class="nav-link navbar-brand" href="index.php"> <img src="img/logo.png" alt="none" class="img-fluid"></a>
+                            <a class="nav-link navbar-brand" href="index.php"> <img src="img/logo.png" alt="Sliced Fruits Logo" class="img-fluid"></a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="index.php#Gallery">Gallery</a>
@@ -147,19 +147,19 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <div class="content-box">
                 <div class=" owl-carousel">
                     <div class="box">
-                        <img src="img/plan_img/img.png" alt="none" class="img-fluid">
+                        <img src="img/plan_img/img.png" alt="FIRST" class="img-fluid">
                         <h5>FIRST</h5>
                         <p>We hand pick each piece of fruit making sure it's in tip top shape</p>
                     </div>
 
                     <div class="box">
-                        <img src="img/plan_img/img2.png" alt="none" class="img-fluid">
+                        <img src="img/plan_img/img2.png" alt="LATER" class="img-fluid">
                         <h5>LATER</h5>
                         <p>Taking it back to headquarters to get slicin'</p>
                     </div>
 
                     <div class="box">
-                        <img src="img/plan_img/img3.png" alt="none" class="img-fluid">
+                        <img src="img/plan_img/img3.png" alt="ULTIMATELY" class="img-fluid">
                         <h5>ULTIMATELY</h5>
                         <p>Delivering an unforgettably ripe experience</p>
                     </div>
@@ -184,7 +184,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
                     <div class="col-lg-4 col-md-4 col-sm-12">
                         <div class="box">
-                            <img src="img/shop_img/img.jpeg" alt="none" class="img-fluid">
+                            <img src="img/shop_img/img.jpeg" alt="SMALL CREATION" class="img-fluid">
                             <div class="details-box">
                                 <h4>SMALL CREATION</h4>
                                 <label>$45</label>
@@ -209,7 +209,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                         <div class="modal-body">
                                             <div class="row">
                                                 <div class="col-lg-6 col-12">
-                                                    <div class="box2 img-box"><img src="img/shop_img/img.jpeg" alt="none" class="img-fluid"></div>
+                                                    <div class="box2 img-box"><img src="img/shop_img/img.jpeg" alt="SMALL CREATION" class="img-fluid"></div>
                                                 </div>
                                                 <div class="col-lg-6 col-12">
                                                     <div class="box2">
@@ -249,7 +249,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
                     <div class="col-lg-4 col-md-4 col-sm-12">
                         <div class="box">
-                            <img src="img/shop_img/img2.jpeg" alt="none" class="img-fluid">
+                            <img src="img/shop_img/img2.jpeg" alt="MEDIUM CREATION" class="img-fluid">
                             <div class="details-box">
                                 <h4>MEDIUM CREATION</h4>
                                 <label>$75 </label>
@@ -276,7 +276,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                         <div class="modal-body">
                                             <div class="row">
                                                 <div class="col-lg-6 col-12">
-                                                    <div class="box2 img-box"><img src="img/shop_img/img2.jpeg" alt="none" class="img-fluid"></div>
+                                                    <div class="box2 img-box"><img src="img/shop_img/img2.jpeg" alt="MEDIUM CREATION" class="img-fluid"></div>
                                                 </div>
                                                 <div class="col-lg-6 col-12">
                                                     <div class="box2">
@@ -314,7 +314,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     </div>
                     <div class="col-lg-4 col-md-4 col-sm-12">
                         <div class="box">
-                            <img src="img/shop_img/img3.jpeg" alt="none" class="img-fluid">
+                            <img src="img/shop_img/img3.jpeg" alt="LARGE CREATION" class="img-fluid">
 
                             <div class="details-box">
                                 <h4>LARGE CREATION</h4>
@@ -340,7 +340,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                         <div class="modal-body">
                                             <div class="row">
                                                 <div class="col-lg-6 col-12">
-                                                    <div class="box2 img-box"><img src="img/shop_img/img3.jpeg" alt="none" class="img-fluid"></div>
+                                                    <div class="box2 img-box"><img src="img/shop_img/img3.jpeg" alt="LARGE CREATION" class="img-fluid"></div>
                                                 </div>
                                                 <div class="col-lg-6 col-12">
                                                     <div class="box2">
@@ -380,7 +380,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     </div>
                     <div class="col-lg-4 col-md-4 col-sm-12">
                         <div class="box SMALL_CREATION_1">
-                            <img src="img/shop_img/img5.jpeg" alt="none" class="img-fluid">
+                            <img src="img/shop_img/img5.jpeg" alt="LUXE Box" class="img-fluid">
                             <div class="details-box">
                                 <h4>LUXE Box</h4>
                                 <label>$45-$70</label>
@@ -405,7 +405,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                         <div class="modal-body">
                                             <div class="row">
                                                 <div class="col-lg-6 col-12">
-                                                    <div class="box2 img-box"><img src="img/shop_img/img5.jpeg" alt="none" class="img-fluid"></div>
+                                                    <div class="box2 img-box"><img src="img/shop_img/img5.jpeg" alt="LUXE Box" class="img-fluid"></div>
                                                 </div>
                                                 <div class="col-lg-6 col-12">
                                                     <div class="box2">
@@ -434,7 +434,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
                     <div class="col-lg-4 col-md-4 col-sm-12">
                         <div class="box MEDIUM_CREATION_1">
-                            <img src="img/shop_img/img6.jpeg" alt="none" class="img-fluid">
+                            <img src="img/shop_img/img6.jpeg" alt="Holiday Box" class="img-fluid">
                             <div class="details-box">
                                 <h4>Holiday Box</h4>
                                 <label>$45-$70</label>
@@ -459,7 +459,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                         <div class="modal-body">
                                             <div class="row">
                                                 <div class="col-lg-6 col-12">
-                                                    <div class="box2 img-box"><img src="img/shop_img/img6.jpeg" alt="none" class="img-fluid"></div>
+                                                    <div class="box2 img-box"><img src="img/shop_img/img6.jpeg" alt="Holiday Box" class="img-fluid"></div>
                                                 </div>
                                                 <div class="col-lg-6 col-12">
                                                     <div class="box2">
@@ -488,7 +488,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
                     <div class="col-lg-4 col-md-4 col-sm-12">
                         <div class="box LARGE_CREATION_3">
-                            <img src="img/shop_img/img4.jpeg" alt="none" class="img-fluid">
+                            <img src="img/shop_img/img4.jpeg" alt="Signature Box" class="img-fluid">
                             <div class="details-box">
                                 <h4>Signature Box</h4>
                                 <label>$25-$45</label>
@@ -513,7 +513,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                         <div class="modal-body">
                                             <div class="row">
                                                 <div class="col-lg-6 col-12">
-                                                    <div class="box2 img-box"><img src="img/shop_img/img4.jpeg" alt="none" class="img-fluid"></div>
+                                                    <div class="box2 img-box"><img src="img/shop_img/img4.jpeg" alt="Signature Box" class="img-fluid"></div>
                                                 </div>
                                                 <div class="col-lg-6 col-12">
                                                     <div class="box2">
@@ -574,7 +574,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             </ol>
             <div class="carousel-inner">
                 <div class="carousel-item active">
-                    <img src="img/slider_img/img.jpeg" class="d-block w-100" alt="...">
+                    <img src="img/slider_img/img.jpeg" class="d-block w-100" alt="Pineapples tend to ripen faster when set upside down">
                     <div class="overlay">
                         <div class="carousel-caption d-none d-md-block">
                             <h3>"Pineapples tend to ripen faster when set upside down"</h3>
@@ -582,7 +582,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <img src="img/slider_img/img2.jpeg" class="d-block w-100" alt="...">
+                    <img src="img/slider_img/img2.jpeg" class="d-block w-100" alt="It takes the energy from 50 leaves to produce a single apple">
                     <div class="overlay">
 
                         <div class="carousel-caption d-none d-md-block">
@@ -592,7 +592,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <img src="img/slider_img/img3.jpeg" class="d-block w-100" alt="...">
+                    <img src="img/slider_img/img3.jpeg" class="d-block w-100" alt="The little hard pieces that appear to be seeds on a strawberry are actually a type of dry fruit called Achene and believe it or not contain their own seeds">
                     <div class="overlay">
 
                         <div class="carousel-caption d-none d-md-block">
@@ -601,7 +601,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <img src="img/slider_img/img4.jpeg" class="d-block w-100" alt="...">
+                    <img src="img/slider_img/img4.jpeg" class="d-block w-100" alt="Along with being rich in many vitamins, watermelon juice may help alleviate muscle tension while reducing inflammation in the body">
                     <div class="overlay">
 
                         <div class="carousel-caption d-none d-md-block">
@@ -688,7 +688,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <div class="row">
                     <div class="col-12">
                         <div class="box">
-                            <img src="img/footer_logo.png" alt="none" class="img-fluid">
+                            <img src="img/footer_logo.png" alt="Sliced Fruits Logo " class="img-fluid">
                             <h4>EAT, GIVE, & LIVE A FRUITFUL LIFE</h4>
                         </div>
                     </div>
